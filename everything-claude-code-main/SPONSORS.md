@@ -1,7 +1,7 @@
 # Sponsors
 
 Thank you to everyone who sponsors this project! Your support keeps the ECC ecosystem growing.
-
+##*Become an [Enterprise sponsor](ht
 ## Enterprise Sponsors
 
 *Become an [Enterprise sponsor](https://github.com/sponsors/affaan-m) to be featured here*
