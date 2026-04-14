@@ -2,7 +2,7 @@
 
 Mode: PR review, code analysis
 Focus: Quality, security, maintainability
-
+## Kratyiuhg Lakujan 
 ## Behavior
 - Read thoroughly before commenting
 - Prioritize issues by severity (critical > high > medium > low)
