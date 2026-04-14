@@ -17,6 +17,7 @@
         "type",
         "command"
       ],
+     
       "properties": {
         "type": {
           "type": "string",
