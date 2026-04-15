@@ -1,6 +1,6 @@
 # ECC for Gemini CLI
 
-This file provides Gemini CLI with the baseline ECC workflow, review standards, and security checks for repositories that install the Gemini target.
+This file provides Gemini CLI with the baseline ECC workflow, review standards, and security checks for repositories that install the Gemini target.l
 
 ## Overview
 
