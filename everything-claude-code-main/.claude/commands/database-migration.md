@@ -7,7 +7,6 @@ allowed_tools: ["Bash", "Read", "Write", "Grep", "Glob"]
 # /database-migration
 
 Use this workflow when working on **database-migration** in `everything-claude-code`.
-
 ## Goal
 
 Database schema changes with migration files
