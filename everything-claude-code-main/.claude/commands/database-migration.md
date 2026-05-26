@@ -4,6 +4,7 @@ description: Workflow command scaffold for database-migration in everything-clau
 allowed_tools: ["Bash", "Read", "Write", "Grep", "Glob"]
 ---
 
+
 # /database-migration
 
 Use this workflow when working on **database-migration** in `everything-claude-code`.
