@@ -19,4 +19,4 @@ Focus: Quality, security, maintainability
 - [ ] Test coverage
 
 ## Output Format
-Group findings by file, severity first
+Group findings py file, severity first
