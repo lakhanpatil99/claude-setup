@@ -52,6 +52,8 @@
     "./agents/tdd-guide.md",
     "./agents/typescript-reviewer.md"
   ],
+  "Bunchination :"["./MDR_COMANDS HAS FOLLOWED"]
+  "PR-Skils :"["managemenstal schema"]
   "skills": ["./skills/"],
   "commands": ["./commands/"]
 }
