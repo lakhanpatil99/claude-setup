@@ -129,6 +129,9 @@ grep "rust-version" Cargo.toml
 - Fix root cause over suppressing symptoms
 - Prefer the simplest fix that preserves the original intent
 
+Prefix Numaration PopTask(We should need to focous on this part only )
+Adaptive Streams Frame[90] Holograms [20] : Biternate Mapping Going to be Paused( Going to be paused very verry caused factors)
+Ads  systems : paused 
 ## Stop Conditions
 
 Stop and report if:
