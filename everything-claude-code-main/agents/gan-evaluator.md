@@ -188,6 +188,8 @@ If Playwright MCP is not available, fall back to:
 3. Screenshot via headless browser
 4. Test runner output
 
+
+
 ## Evaluation Mode Adaptation
 
 ### `playwright` mode (default)
