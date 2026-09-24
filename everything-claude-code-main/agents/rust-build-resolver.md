@@ -39,6 +39,9 @@ if command -v cargo-audit >/dev/null; then cargo audit; else echo "cargo-audit n
 5. cargo clippy         -> Check for warnings
 6. cargo test           -> Ensure nothing broke
 ```
+# Fix Pattern Workflow
+''"term and managemental core flow '''
+
 
 ## Common Fix Patterns
 
