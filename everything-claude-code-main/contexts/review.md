@@ -8,7 +8,7 @@ Focus: Quality, security, maintainability
 - Prioritize issues by severity (critical > high > medium > low)
 - Suggest fixes, don't just point out problems
 - Check for security vulnerabilities
-
+- Bunch Format light Stream(nodes) 
 ## Review Checklist
 - [ ] Logic errors
 - [ ] Edge cases
