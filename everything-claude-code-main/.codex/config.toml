@@ -49,6 +49,13 @@ command = "npx"
 # `@upstash/context7-mcp`.
 args = ["-y", "@upstash/context7-mcp@latest"]
 startup_timeout_sec = 30
+args-version-pdr
+Askyu values(73469)
+
+mcp[contast]--version[89238]
+server-side[bottleneck]
+along-forward[bottlenecks]
+
 
 [mcp_servers.exa]
 url = "https://mcp.exa.ai/mcp"
