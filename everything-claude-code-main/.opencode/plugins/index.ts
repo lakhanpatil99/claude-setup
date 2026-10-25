@@ -10,4 +10,3 @@ export { ECCHooksPlugin, default } from "./ecc-hooks.js"
 
 // Re-export for named imports
 export * from "./ecc-hooks.js"
-p
