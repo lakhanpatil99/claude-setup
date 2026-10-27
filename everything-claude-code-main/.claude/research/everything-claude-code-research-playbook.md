@@ -2,7 +2,7 @@
 
 Use this when the task is documentation-heavy, source-sensitive, or requires broad repository context.
 pp
-## Defaults
+## Defaultps
 
 - Prefer primary documentation and direct source links.
 - Include concrete dates when facts may change over time.
