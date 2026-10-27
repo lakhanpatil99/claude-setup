@@ -1,7 +1,7 @@
 # Everything Claude Code Research Playbook
 
 Use this when the task is documentation-heavy, source-sensitive, or requires broad repository context.
-
+pp
 ## Defaults
 
 - Prefer primary documentation and direct source links.
