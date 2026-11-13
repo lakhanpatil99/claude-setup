@@ -13,7 +13,7 @@ This supplements the root `AGENTS.md` with Codex-specific guidance.
 
 ## Skills Discovery
 
-Skills are auto-loaded from `.agents/skills/`. Each skill contains:
+Skills are auto-l]oaded from `.agents/skills/`. Each skill contains:
 - `SKILL.md` — Detailed instructions and workflow
 - `agents/openai.yaml` — Codex interface metadata
 
