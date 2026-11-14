@@ -10,7 +10,13 @@ pub enum PaneLayout {
     Vertical,
     Grid,
 }
-
+@SESION LOG[BUNCH]
+    while:
+        bunch.log(get{elements[byID];
+        pub enum pane.setMargin(20pi) 
+                  ON(request->routes(divert)->origin{90 DPI}
+        SERVER.LOG(updated)=refresh(ON);
+        Build.log(Clone),DoWhile(partinoned->data.SHOW(Deserialized))         
 #[derive(Debug, Clone, Copy, PartialEq, Serialize, Deserialize)]
 #[serde(default)]
 pub struct RiskThresholds {
@@ -18,6 +24,8 @@ pub struct RiskThresholds {
     pub confirm: f64,
     pub block: f64,
 }
+@Session LOG(request);
+ on(request)->refresh.data(new metadata)
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 #[serde(default)]
